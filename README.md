@@ -5,21 +5,21 @@
 ```js
 function aboutMe() {
 
-  const from = "🇮🇳 Bihar, India";
+ const from = "🇮🇳 Bihar, India";
 
-  const Bugs = "🐛 my colleague";
+ const Bugs = "🐛 my colleague";
   
     let Errors = "👩🏾‍🤝‍👩🏻 my friends";
 
-  passion.Work("🧑‍💻 Programming");
+    passion.Work("🧑‍💻 Programming");
 
-const interests = {
+ const interests = {
 
     technology: "💻 Tech enthusiast",
 
     Linux: "🐧 openSuse Tumbleweed",
 
-    programming: "👩‍💻 Learning programming"
+programming: "👩‍💻 Learning programming"
 
 }
 ```
