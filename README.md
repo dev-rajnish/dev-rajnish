@@ -1,5 +1,5 @@
+## 👋 Hey ! i'm __rajnish__. 
 
-# 👋 Hey! i'm  **rajnish**. 
 <img width="200px" height="200px" src="https://bit.ly/rajnish-dpc" style="border-radius:50px;">
 
 ```js
