@@ -3,15 +3,16 @@
 <img width="250px" height="250px" src="https://bit.ly/rajnish-dpc" style="border-radius:50px;">
 
 ```js
-function aboutMe ( ) {
+function aboutMe() {
 
-  const from = "🇮🇳 Bihar,India"
+  const from = "🇮🇳 Bihar, India";
 
-   const Bugs = " 🐛 my collegue";
-   
-   let Errors = " 👩🏾‍🤝‍👩🏻 my friends";
+  const Bugs = "🐛 my colleague";
+  
+    let Errors = "👩🏾‍🤝‍👩🏻 my friends";
 
-   passion.Work("🧑‍💻 Programming");
+  passion.Work("🧑‍💻 Programming");
+
 }
 ```
 
