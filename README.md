@@ -37,16 +37,9 @@ function aboutMe ( ) {
 
 
 ## 📈 GitHub Stats:
-<img width="720px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rajnish&theme=algolia&hide_border=false">
+<img width="720px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rajnish&theme=algolia&hide_border=false"> <img src="https://github-readme-stats.vercel.app/api?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="350px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
-| | |
-|:--:|:--:|
-|<img src="https://github-readme-stats.vercel.app/api?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="350px">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">  |
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-  ## 💰 You can help me by Donating
+## 💰 Flood by Bank
   <a href="https://paypal.me/imsanedev">
   <img width="140px" src="https://img.shields.io/badge/PayPal-00457C?style=flate&logo=paypal&logoColor=white">
 </a>
