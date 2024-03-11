@@ -1,4 +1,4 @@
-### Hey, there 👋
+## Hey, there 👋
 
 🌟 Learning | Open Source Enthusiast | Linux Lover
 
