@@ -33,10 +33,8 @@ const interests = {
 > <img width="120px" height="40px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" > <img width="120px" height="40px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" > <img width="120px" height="40px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" > <img width="150px" height="40px" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" >
 
 ### 🌐 Socials 
-> <a href="https://x.com/ik_rajnish"> 
-<img src="https://img.shields.io/badge/ik_rajnish-black.svg?logo=x&logoColor=white" width="140px" height="40px"></a><a href="https://t.me/devrajnish">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" width="140px" height="40px">
-</a>
+> <a href="https://x.com/ik_rajnish"> <img src="https://img.shields.io/badge/ik_rajnish-black.svg?logo=x&logoColor=white" width="140px" height="40px"></a> <a href="https://t.me/devrajnish">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" width="140px" height="40px"></a>
 
 
 ### 📈 GitHub Stats:
