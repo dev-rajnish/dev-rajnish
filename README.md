@@ -1,6 +1,6 @@
 
 # 👋 Hey! i'm  **rajnish**. 
-<img width="250px" height="250px" src="https://bit.ly/rajnish-dpc" style="border-radius:10px;">
+<img width="250px" height="250px" src="https://bit.ly/rajnish-dpc" style="border-radius:50px;">
 
 ```js
 function aboutMe ( ) {
@@ -21,9 +21,7 @@ function aboutMe ( ) {
 > <img width="100px" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> <img width="180px" height="40px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"> <img width="100px" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" > <img width="200px" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" > 
  <br> <img width="120px" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" > <img width="100px" height="40px" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" > <img width="200px" height="40px" src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" > <img width="120px" height="40px" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" >
 
-> <img width="120px" height="40px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" > <img width="120px" height="40px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" >
-<img width="120px" height="40px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" >
-<img width="150px" height="40px" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" >
+> <img width="120px" height="40px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" > <img width="120px" height="40px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" > <img width="120px" height="40px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" > <img width="150px" height="40px" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" >
 
 ## 🌐 Socials 
 
@@ -43,7 +41,7 @@ function aboutMe ( ) {
 
 | | |
 |:--:|:--:|
-|<img src="https://github-readme-stats.vercel.app/api?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400px">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">  |
+|<img src="https://github-readme-stats.vercel.app/api?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="350px">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">  |
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
