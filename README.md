@@ -5,7 +5,7 @@
 ```js
 function aboutMe ( ) {
 
-  const from = "🇮🇳 India"
+  const from = "🇮🇳 Bihar,India"
 
    const Bugs = " 🐛 my collegue";
    
