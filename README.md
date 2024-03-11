@@ -1,8 +1,7 @@
-## 👋 Hey there ! 
-__i'm <span style="font-size:20px"> rajnish.</span>__
+## 👋 Hey! i'm  <mark>rajnish</mark>.
 ```javascript
-    const bugs = "my collegue";
-    let errors = "my friends";
+ const bugs = "my collegue";
+  let errors = "my friends";
 ```
 
 
