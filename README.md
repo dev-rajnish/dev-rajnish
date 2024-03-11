@@ -13,6 +13,14 @@ function aboutMe() {
 
   passion.Work("🧑‍💻 Programming");
 
+const interests = {
+
+    technology: "💻 Tech enthusiast",
+
+    Linux: "🐧 openSuse Tumbleweed",
+
+    programming: "👩‍💻 Learning programming"
+
 }
 ```
 
