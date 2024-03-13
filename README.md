@@ -11,7 +11,9 @@ function aboutMe() {
   
     let Errors = "👩🏾‍🤝‍👩🏻 my friends";
 
-    passion.Work("🧑‍💻 Programming");
+    passion.Hobby("🧑‍💻 Programming");
+
+    profession.Work("🧑‍💻 Programming");
 
  const interests = {
 
