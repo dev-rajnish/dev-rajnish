@@ -1,4 +1,7 @@
-<img width="400px"  src="https://rajnish.dev/my_name_gh_readme_file">
+<img width="300px"  src="https://rajnish.dev/my_name_gh_readme_file">
+
+
+<img width="200px"  src="https://img.shields.io/badge/%F0%9F%91%8B_Hey_!%20_i'm-A5B68D?style=for-the-badge"><img width="220px"  src="https://img.shields.io/badge/r_a_j_n_i_s_h-FFCF9D?style=for-the-badge">
 
  🎶 Now Playing
 
