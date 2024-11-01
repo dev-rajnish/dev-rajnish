@@ -47,13 +47,13 @@ const connections = {
 ![](https://img.shields.io/badge/JavaScript-FFE31A?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![]()
+![](https://komarev.com/ghpvc/?username=dev-rajnish&style=for-the-badge)
  
-
+![](https://hit.yhype.me/github/profile?user_id=108971841)
 ![]()
 
 
-
+![]()
  
 
 <img width="280px" height="10px" src="https://img.shields.io/badge/_-FF4545?style=for-the-badge">
