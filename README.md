@@ -1,4 +1,5 @@
-## 👋 Hey ! i'm __rajnish__.
+<img width="400px"  src="https://img.shields.io/badge/%F0%9F%91%8B_Hey_!%20_i'm-r_a_j_n_i_s_h-FFCF9D?style=for-the-badge&logoColor=red">
+<img width="400px"  src="https://rajnish.dev/my-name-gh-readme-file">
 
  🎶 Now Playing
 
