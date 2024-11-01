@@ -8,36 +8,35 @@
 ```js
 function aboutMe() {
 
-  const footprint = {
+const footprint = {
 
-    location: "📍 Bihar, India 🇮🇳",
+  location: "📍 Bihar, India 🇮🇳",
 
-    timezone: "⏰ GMT+5:30"
-  };
+  timezone: "⏰ GMT+5:30" };
 
-  const profession = {
 
-    title: "💻 Aspiring Software Developer",
+const profession = {
 
-    focus: "🔨 Crafting Solutions"
-  };
+  title: "💻 Aspiring Software Developer",
 
-  const passion = {
+  focus: "🔨 Crafting Solutions" };
 
-    hobby: "💡 Programming"
-  };
+
+const passion = {
+
+  hobby: "💡 Programming" };
 
   const interests = {
 
-    webDevelopment: "🔙 Mainly Backend"
-  };
+  webDevelopment: "🔙 Mainly Backend" };
 
-  const connections = {
 
-    colleague: "🐞 Bugs",
+const connections = {
 
-    friend: "💥 Errors"
-  };
+  colleague: "🐞 Bugs",
+
+  friend: "💥 Errors" };
+
 }
 
 ```
