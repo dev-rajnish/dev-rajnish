@@ -1,9 +1,7 @@
 <img width="300px"  src="https://rajnish.dev/my_name_gh_readme_file">
 
+ <img width="250px" src="https://img.shields.io/badge/_🎶_Now_Playing-n?style=for-the-badge&logoColor=red&color=rgba(0%2C0%2C0%2C0)">
 
-<img width="200px"  src="https://img.shields.io/badge/%F0%9F%91%8B_Hey_!%20_i'm-A5B68D?style=for-the-badge"><img width="220px"  src="https://img.shields.io/badge/r_a_j_n_i_s_h-FFCF9D?style=for-the-badge">
-
- 🎶 Now Playing
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31adq66u7roiydmuaexvdw2afsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
