@@ -3,7 +3,7 @@
 - - 
 <p> 🥁 Playing On Spotify 👇 </p>
  
-<img width="800px"  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31adq66u7roiydmuaexvdw2afsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=A5B68D&bar_color_cover=true">
+<img width="1800px"  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31adq66u7roiydmuaexvdw2afsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=A5B68D&bar_color_cover=true">
 
 
 
