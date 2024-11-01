@@ -48,6 +48,15 @@ function aboutMe() {
 ![](https://img.shields.io/badge/JavaScript-FFE31A?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+![]()
+ 
+
+![]()
+
+
+
+ 
+
 <img width="280px" height="10px" src="https://img.shields.io/badge/_-FF4545?style=for-the-badge">
 
 
@@ -78,43 +87,3 @@ function aboutMe() {
 
 ✨ _THE END!_ __Huhh... 😏__
  
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
-![]()
- 
-
