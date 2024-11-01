@@ -1,54 +1,120 @@
 <img width="300px"  src="https://rajnish.dev/my_name_gh_readme_file">
-
-- - 
-<p> 🥁 Playing On <img src="line-md--spotify-filled.svg"> Spotify 👇 </p>
- 
 <img width="400px"  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31adq66u7roiydmuaexvdw2afsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=A5B68D&bar_color_cover=true">
-
-
-
+<a href="https://rajnish.dev">
+<img src="https://img.shields.io/badge/my-website-021526?style=for-the-badge"> </a>
+<a href="mailto:rajnish.dev">
+<img src="https://img.shields.io/badge/hi@rajnish.dev-FFF6E3?style=for-the-badge&logo=gmail"> </a>
 
 ```js
 function aboutMe() {
 
- const from = "🇮🇳 Bihar, India";
+  const footprint = {
 
- const Bugs = "🐛 my colleague";
-  
-    let Errors = "👩🏾‍🤝‍👩🏻 my friends";
+    location: "📍 Bihar, India 🇮🇳",
 
-    passion.Hobby("🧑‍💻 Programming");
+    timezone: "⏰ GMT+5:30"
+  };
 
-    profession.Work("🧑‍💻 Programming");
+  const profession = {
 
- const interests = {
+    title: "💻 Aspiring Software Developer",
 
-    technology: "💻 Tech enthusiast",
+    focus: "🔨 Crafting Solutions"
+  };
 
-    Linux: "🐧 openSuse Tumbleweed",
+  const passion = {
 
-programming: "👩‍💻 Learning programming"
+    hobby: "💡 Programming"
+  };
 
+  const interests = {
+
+    webDevelopment: "🔙 Mainly Backend"
+  };
+
+  const connections = {
+
+    colleague: "🐞 Bugs",
+
+    friend: "💥 Errors"
+  };
 }
+
 ```
 
-## 💻 **Weapons I Can Use**
+<img width="5px" height="14px" src="https://img.shields.io/badge/_-FF9C73?style=for-the-badge"> __⭐️💡 S k i l l ✨__
 
-> <img width="80px" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img width="60px" height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > <img width="60px" height="30px" src="https://img.shields.io/badge/js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" > <img width="80px" height="30px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" > <img width="80px" height="30px" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" > <img width="80px" height="30px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" > <img width="80px" height="30px" src="https://img.shields.io/badge/pages-121013?style=for-the-badge&logo=github&logoColor=white" > <img width="100px" height="30px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-
-> <img width="60px" height="30px" src="https://img.shields.io/badge/c_lang-%23175DDC.svg?style=for-the-badge&logo=c&logoColor=white" > <img width="60px" height="30px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" > <img width="80px" height="30px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" > <img width="80px" height="30px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" > <img width="100px" height="30px" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" >
-
-### 🌐 **Socials** 
-> <a href="https://x.com/ik_rajnish"> <img src="https://img.shields.io/badge/ik_rajnish-black.svg?style=for-the-badge&logo=x&logoColor=white" width="140px" height="40px"></a> <a href="https://t.me/devrajnish">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="140px" height="40px"></a>
+![](https://img.shields.io/badge/C-608BC1?style=for-the-badge&logo=c&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-FFE31A?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### 📈 **GitHub Stats:**
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rajnish&theme=algolia&hide_border=false"> <img src="https://github-readme-stats.vercel.app/api?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="500px"> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnish&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img width="280px" height="10px" src="https://img.shields.io/badge/_-FF4545?style=for-the-badge">
 
-### 💰 **Flood by Bank**
-  <a href="https://paypal.me/imsanedev">
-  <img width="140px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
 
--- -- 
+
+
+🛠️ Tools ⚙️
+
+![](https://img.shields.io/badge/Cloudflare-FFC96F?style=for-the-badge&logo=Cloudflare&logoColor=black)
+
+
+
+
+
+
+
+
+💻 My daily driver 🚗
+
+![](https://img.shields.io/badge/Linux-FFE700?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/openSUSE_Tumbleweed-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
+
+
+![](https://img.shields.io/badge/NeoVim-B6FFA1?&style=for-the-badge&logo=neovim&logoColor=black)
+
+
+
+
+
+✨ _THE END!_ __Huhh... 😏__
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
+![]()
+ 
+
